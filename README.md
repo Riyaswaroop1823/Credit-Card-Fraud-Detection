@@ -1,2 +1,7 @@
 # Credit-Card-Fraud-Detection
 “The Credit Card Fraud Detection Problem includes modeling beyond credit card transactions with the know-how of the ones that became out to be a fraud. This model is then used to pick out whether a new transaction is fraudulent or no longer”.
+
+OBJECTIVE
+“The Credit Card Fraud Detection Problem includes modelling beyond credit card transactions with the know-how of the ones that became out to be a fraud. This model is then used to pick out whether a new transaction is fraudulent or no longer”. “Our aim right here is to hit upon 100% of the fraudulent transactions while minimizing the wrong fraud classifications”. “The Credit Card Fraud Detection Problem consists of modelling previous credit rating card transactions with the info of those that grew to grow to be out to be fraud. This model is then used to discover whether a brand new transaction is fraudulent or no longer. Our intention right right here is to find out one hundred% of the fraudulent transactions while minimizing the incorrect fraud classifications”. What does credit card fraud detection includes? “The Credit Card Fraud Detection Problem includes modelling beyond credit card transactions with the expertise of those that grew to come to be out to be fraud. This model is then utilized in figuring out if any new transaction is fraudulent or suspicious patterns and to make new guidelines to prevent new styles of scams”. 
+
+https://colab.research.google.com/drive/1gHfxQ5rFnO8-MDolTaTONx_AnUCGPvhN#scrollTo=o30gvGwvBK4X
